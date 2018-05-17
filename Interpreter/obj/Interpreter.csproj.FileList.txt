@@ -1,0 +1,8 @@
+bin\Debug\Interpreter.exe
+bin\Debug\Interpreter.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interpreter.Properties.Resources.resources
+obj\Debug\Interpreter.csproj.GenerateResource.Cache
+obj\Debug\Interpreter.exe
+obj\Debug\Interpreter.pdb
+obj\Debug\Interpreter.Form1.resources
